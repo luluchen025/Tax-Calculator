@@ -1,0 +1,10 @@
+C:\Users\lulchen\source\repos\Program-3\Program-3\bin\Debug\Program-3.exe.config
+C:\Users\lulchen\source\repos\Program-3\Program-3\bin\Debug\Program-3.exe
+C:\Users\lulchen\source\repos\Program-3\Program-3\bin\Debug\Program-3.pdb
+C:\Users\lulchen\source\repos\Program-3\Program-3\obj\Debug\Program-3.csproj.AssemblyReference.cache
+C:\Users\lulchen\source\repos\Program-3\Program-3\obj\Debug\Program_3.Form1.resources
+C:\Users\lulchen\source\repos\Program-3\Program-3\obj\Debug\Program_3.Properties.Resources.resources
+C:\Users\lulchen\source\repos\Program-3\Program-3\obj\Debug\Program-3.csproj.GenerateResource.cache
+C:\Users\lulchen\source\repos\Program-3\Program-3\obj\Debug\Program-3.csproj.CoreCompileInputs.cache
+C:\Users\lulchen\source\repos\Program-3\Program-3\obj\Debug\Program-3.exe
+C:\Users\lulchen\source\repos\Program-3\Program-3\obj\Debug\Program-3.pdb
